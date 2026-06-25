@@ -9,7 +9,7 @@ Interactive visualization tool for the Travelling Salesman Problem built with Re
 - English/German language toggle
 
 ## Try it
-No installation needed: [Live Demo](your-netlify-link)
+No installation needed: [Live Demo] https://legendary-queijadas-22e0b4.netlify.app/
 
 ## Run locally
 Requires Node 18+
