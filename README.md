@@ -1,4 +1,4 @@
-# Microdosing Infinity
+# Route Explorer
 Interactive visualization tool for the Travelling Salesman Problem built with React.
 
 ## Features
